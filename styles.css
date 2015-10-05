@@ -1,0 +1,26 @@
+nav {
+	color: blue
+}
+
+h1{
+	font-family: Arial; 
+	font-size: 20px;
+}
+
+p{	
+	color: red;
+}
+
+articulo1 {
+	color: green;
+}
+
+articulo2 {
+	background-color: red;
+}
+
+
+article {
+    color: chocolate;
+    border-color: aqua;
+}
